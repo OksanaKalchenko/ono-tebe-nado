@@ -1,7 +1,7 @@
 /* Шапка */
 
 .header {
-    display: grid; 
+    display: grid;
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
     padding: 92px 24px 96px 24px;
@@ -28,7 +28,7 @@
 }
 
 .header__link_active .header__link {
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 .header__links-list-item_no-bullit {
@@ -37,8 +37,8 @@
 
 .header__logo {
     display: block;
-    width: 148px; 
-    height: 105px; 
+    width: 148px;
+    height: 105px;
 }
 
 .header__logo-image {
@@ -78,7 +78,7 @@
     left: 0;
     position: absolute;
     background: #000;
-    opacity: 0.6;  
+    opacity: 0.6;
     z-index: 1;
 }
 
@@ -121,7 +121,7 @@
 
 .letter-spacing-extended {
     display: inline;
-    padding-left: 30px; 
+    padding-left: 30px;
 }
 
 .cover__description {
@@ -132,7 +132,7 @@
     font-size: 15px;
     line-height: 28px;
     text-transform: uppercase;
-    color: #FFF; 
+    color: #FFF;
 }
 
 .cover__description-text {
